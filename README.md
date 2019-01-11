@@ -1,11 +1,12 @@
 # SnakeGame-Harman_AI
 
+Once you will have all the libraries available that are mentioned in requirements , you can directly run this project .
+Please let me know if you face any issue . You can mail me at byteharman0101@gmail.com
 
-# Snake
 
 [![][badge-travis]][build-travis] [![][badge-appveyor]][build-appveyor] ![][badge-python]
 
-This project focuses on the artificial intelligence of the [Snake][wiki-snake] game. The snake's goal is to eat the food continuously and fill the map with its bodies ASAP. The [old version][snake-proj-old] of this project is written in C++. Now it has been rewritten using Python for a user-friendly GUI and the simplicity in the implementations of algorithms.
+This project focuses on the artificial intelligence of the [Snake][wiki-snake] game. The snake's goal is to eat the food continuously and fill the map with its bodies ASAP. 
 
 ***[Algorithms >][doc-algorithms]***
 
@@ -40,6 +41,8 @@ Run unit tests:
 ```
 $ python3 -m pytest -v
 ```
+
+
 
 ## License
 
