@@ -42,4 +42,28 @@ Run unit tests:
 $ python3 -m pytest -v
 ```
 
+## License
+
+See the [LICENSE](./LICENSE) file for license rights and limitations.
+
+
+[snake-proj-old]: https://github.com/chuyangliu/Snake/tree/7227f5e0f3185b07e9e3de1ac5c19a17b9de3e3c
+
+[build-travis]: https://travis-ci.org/chuyangliu/snake
+[build-appveyor]: https://ci.appveyor.com/project/chuyangliu/snake/branch/master
+
+[badge-travis]: https://travis-ci.org/chuyangliu/snake.svg?branch=master
+[badge-appveyor]: https://ci.appveyor.com/api/projects/status/ew63pr1vb7ee1yyi/branch/master?svg=true
+[badge-python]: https://img.shields.io/badge/python-3.5%2C%203.6-blue.svg
+
+[wiki-snake]: https://en.wikipedia.org/wiki/Snake_(video_game)
+[doc-tkinter]: https://docs.python.org/3.6/library/tkinter.html
+[doc-algorithms]: ./docs/algorithms.md
+[doc-greedy]: ./docs/algorithms.md#greedy-solver
+[doc-hamilton]: ./docs/algorithms.md#hamilton-solver
+[doc-dqn]: ./docs/algorithms.md#dqn-solver
+
+[demo-hamilton]: ./docs/images/solver_hamilton.gif
+[demo-greedy]: ./docs/images/solver_greedy.gif
+[demo-dqn]: ./docs/images/solver_dqn.gif
 
